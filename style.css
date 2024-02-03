@@ -1,0 +1,28 @@
+*
+{
+    box-sizing: border-box;
+    background: #471069;
+    margin: 0;
+    padding: 0;
+    color: #30c5d2;
+}
+.geta
+{
+    text-align: center;
+    text-transform: capitalize;
+}
+.bata
+{
+    color: #30c5d2;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid white;
+    transition: 0.5s ease-in-out;
+}
+.bata:hover
+{
+    color: gray;
+    border: 1px solid gray;
+    background: none;
+    animation: ease-in-out;
+}
